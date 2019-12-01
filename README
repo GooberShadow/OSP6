@@ -1,0 +1,12 @@
+I completed the project.
+
+To run it type make to compile
+
+Then type ./oss to run it
+
+The default run will run the LRU but if you would like to run FIFO you need to type ./oss FIFO
+
+You may also type ./oss LRU to run the LRU or simply leave it to the default
+
+I hope you enjoy my project.
+-Benjamin Kehe
