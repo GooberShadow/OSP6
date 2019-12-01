@@ -1,12 +1,14 @@
 I completed the project.
 
-To run it type make to compile
+To get the project to execute type make to compile
 
 Then type ./oss to run it
 
 The default run will run the LRU but if you would like to run FIFO you need to type ./oss FIFO
 
 You may also type ./oss LRU to run the LRU or simply leave it to the default
+
+I decided to leave info printing to the terminal, however BE SURE TO CHECK THE LOGFILE AS WELL AS IT CONTAINS WHAT IS REQUIRED
 
 I hope you enjoy my project.
 -Benjamin Kehe
